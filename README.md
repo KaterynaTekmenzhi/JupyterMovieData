@@ -11,7 +11,7 @@
   * [License](#license)
   
   ## Installation
-  1. clone the repositary to your local computer and run the code.
+  1. Clone the repositary to your local computer and run the code.
   2. The output will immediantly create an excel file with all movie data from 2014.
   3. Open the file in excel
 
